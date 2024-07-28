@@ -57,21 +57,29 @@ Previous_week_Revenue = CALCULATE(
     )
 )
 
-Step 3: Key Insights - Week 53 (31st Dec) Overview YTD
-The following insights were derived from the data analysis:
+## Step 3: Key Insights - Week 53 (31st Dec) Overview YTD
 
-Overall Revenue: The total revenue amounted to $57 million.
-Total Interest Earned: $8 million in interest was accrued.
-Total Transaction Amount: Transactions totaled $46 million.
-Revenue by Gender:
-Male customers: $31 million
-Female customers: $26 million
-Credit Card Performance:
-Blue and Silver credit cards accounted for 93% of overall transactions.
-Regional Contribution:
-The states of Texas, New York, and California contributed to 68% of the total revenue.
-Activation and Delinquency Rates:
-Activation Rate: 57.5%
-Delinquency Rate: 6.06%
+1. **Overall Revenue**: 
+   - The total revenue for the year amounted to **$57 million**.
+
+2. **Total Interest Earned**: 
+   - Accrued interest totaled **$8 million**.
+
+3. **Total Transaction Amount**: 
+   - Transactions summed to **$46 million**.
+
+4. **Revenue by Gender**:
+   - **Male Customers**: Contributed **$31 million**.
+   - **Female Customers**: Contributed **$26 million**.
+
+5. **Credit Card Performance**: 
+   - Blue and Silver credit cards accounted for **93%** of overall transactions.
+
+6. **Regional Contribution**: 
+   - Texas, New York, and California together contributed **68%** of the total revenue.
+
+7. **Activation and Delinquency Rates**:
+   - **Activation Rate**: The overall activation rate was **57.5%**.
+   - **Delinquency Rate**: The overall delinquency rate was **6.06%**.
 
 
